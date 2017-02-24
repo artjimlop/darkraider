@@ -80,10 +80,16 @@
 -define:UNITY_EDITOR_OSX
 -define:UNITY_TEAM_LICENSE
 -define:CROSS_PLATFORM_INPUT
+'Assets/Scripts/Ammo.cs'
+'Assets/Scripts/AmmoSpawner.cs'
+'Assets/Scripts/DestoyOnCollide.cs'
 'Assets/Scripts/Door.cs'
+'Assets/Scripts/HealthBar.cs'
 'Assets/Scripts/KillZone.cs'
+'Assets/Scripts/Movement.cs'
 'Assets/Scripts/PingPongMovement.cs'
 'Assets/Scripts/PlayerController.cs'
+'Assets/Scripts/QuestManager.cs'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.Xml.Linq.dll'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/UnityScript.dll'
